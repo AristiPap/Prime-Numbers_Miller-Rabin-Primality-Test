@@ -8,5 +8,5 @@ For example:
 Note that each implementation can take input for numbers upto 4090000000  
 (if the defined numbers that we use to calculate all the prime numbers in between are: minimum-3990000000
 maximum- 4010000000 then the process time for each implementation is:
-deterministic algorithm:52.488000
-Miller-Rabin algorithm:5.166687
+deterministic algorithm:52.488000sec||
+Miller-Rabin algorithm:5.166687sec
